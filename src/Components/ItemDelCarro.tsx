@@ -5,6 +5,8 @@ import { CartItemProps } from '../Model/types';
 const ItemDelCarroStyle = styled.article`
     display: grid;
     text-align: center;
+    padding: 1rem;
+    border: 2px solid black;
 
     img {
         width: 100px;
