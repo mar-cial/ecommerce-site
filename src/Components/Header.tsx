@@ -28,7 +28,7 @@ const Header: React.FC = () => {
                 <span>
                     Puedes encontrar el código en
                     <br />
-                    <a href="#">github.com/mar-cial/typescript-fake-store</a>
+                    <a href="https://github.com/mar-cial/ecommerce-site.git">github.com/mar-cial/typescript-fake-store</a>
                 </span>
             </footer>
         </HeaderStyle>
